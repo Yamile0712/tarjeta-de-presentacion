@@ -1,6 +1,6 @@
 :root{
-    --color-blue: #127e24;
-    --bg-color: #83cea2;
+    --color-blue: #47093a;
+    --bg-color: #75084bb6;
 }
 
 *{
@@ -22,7 +22,7 @@ box-sizing: border-box;
     width: 25%;
     height: 70vh;
     padding: 1%;
-    background-color: rgb(253, 253, 253);
+    background-color: rgb(236, 195, 218);
     display: flex;
     justify-content: center;
     align-items: center;
